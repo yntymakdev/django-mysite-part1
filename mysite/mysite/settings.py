@@ -77,9 +77,9 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'djangostore',
+        'NAME': 'djangostore_v2',
         'USER': 'postgres',
-        'PASSWORD': 'adminynty',
+        'PASSWORD': 'yntyadmin',
         'HOST': 'localhost',
         'PORT': 5432,
     }
